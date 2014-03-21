@@ -15,7 +15,7 @@
   <project name="meta-oe" revision="refs/heads/dylan"  remote="oe" path="poky/meta-openembedded" />
   <project name="meta-gumstix" revision="refs/heads/dylan"  remote="gumstix" path="poky/meta-gumstix" />
   <project name="meta-gumstix-extras" revision="refs/heads/dylan" remote="gumstix" path="poky/meta-gumstix-extras" />
-  <project name="meta-ti" revision="refs/heads/dylan-fix"  remote="scottellis" path="meta-ti" />
+  <project name="meta-ti" revision="refs/heads/dylan-fix"  remote="scottellis" path="poky/meta-ti" />
 
 </manifest>
 
